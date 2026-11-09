@@ -10,5 +10,6 @@
 - [04 X Article](2026-11/04%20X%20Article/) · X 文章指南，3 张
 - [05 X Original Rewards](2026-11/05%20X%20Original%20Rewards/) · X 原创奖励，4 张
 - [06 Addy Osmani](2026-11/06%20Addy%20Osmani/) · AI 协作与独立思考，4 张
+- [07 Mayank 40 Hours](2026-11/07%20Mayank%2040%20Hours/) · 40 小时技能入门，3 张
 
 按归档先后编号。未编号的旧目录保留用于兼容已有链接；请优先使用上面的编号目录。
